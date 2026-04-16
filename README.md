@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kelisiqiang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning bgm
+- 👀 I’m interested in all about life.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me? wechat:13323421010
 
 <!---
 Kelisiqiang/Kelisiqiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
